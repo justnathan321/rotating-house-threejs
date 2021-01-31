@@ -8,3 +8,4 @@ I used this 3D model from Sketchfab: https://sketchfab.com/3d-models/house-6eb02
 
 Read more about Three.js: https://threejs.org/
 
+![3D Website](https://i.ibb.co/NmmMq3F/house.jpg)
