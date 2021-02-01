@@ -9,3 +9,6 @@ I used a 3D model from Sketchfab: https://sketchfab.com/3d-models/house-6eb02721
 Read more about Three.js: https://threejs.org/
 
 ![3D Website](https://i.ibb.co/NmmMq3F/house.jpg)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/82c0a413-dbbe-478d-94fe-ca08224b5626/deploy-status)](https://app.netlify.com/sites/pedantic-bell-56b672/deploys)
+
